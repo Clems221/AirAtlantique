@@ -1,4 +1,4 @@
-# AirAtlantique
+# AirAtlantique - Formation
 
 ##WPF application developed in order to organize formation in a Airport Company
 
